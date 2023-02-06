@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T04:19:32.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WuWk2ZOMkQDyM-tYvHG4" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:48:57.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="B4gvtdnJz2pFZ34NjgEB" version="20.8.16" type="github">
   <diagram name="第 1 页" id="QphtTLHyzabLkcDR0NQY">
     <mxGraphModel dx="1030" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,10 +52,10 @@
         <mxCell id="XRTO34nemUw1Eli-27_c-27" value="10. Wedding Scene (interviews)" style="text;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
           <mxGeometry y="390" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-28" value="11.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+        <mxCell id="XRTO34nemUw1Eli-27_c-28" value="11.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
           <mxGeometry y="430" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-11" value="12.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+        <mxCell id="XRTO34nemUw1Eli-27_c-11" value="12.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
           <mxGeometry y="470" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-12" value="13. Recap" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-18" value="Increase the credibility of the story and the audience&#39;s sense of involvement." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="520" y="199" width="200" height="50" as="geometry" />
+          <mxGeometry x="520" y="199" width="200" height="51" as="geometry" />
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-19" value="Introduce the media or method that can contact or learn about Primrose Garden." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="264" width="200" height="50" as="geometry" />
@@ -129,6 +129,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="730" as="sourcePoint" />
             <mxPoint x="530" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-40" value="&amp;nbsp;Or one of the shorts has nothing to&amp;nbsp; &amp;nbsp;do with the story, and uses&amp;nbsp; &amp;nbsp;humorous and interesting content&amp;nbsp; &amp;nbsp;to increase eye-catching" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=default;fillColor=default;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="XRTO34nemUw1Eli-27_c-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="180" as="sourcePoint" />
+            <mxPoint x="470" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

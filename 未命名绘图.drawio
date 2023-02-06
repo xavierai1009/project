@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:39:24.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="r-LJ58KeXGoR_oH0wHxe" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:19:32.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WuWk2ZOMkQDyM-tYvHG4" version="20.8.16" type="github">
   <diagram name="第 1 页" id="QphtTLHyzabLkcDR0NQY">
     <mxGraphModel dx="1030" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-2" value="　ショート52：&lt;br&gt;　if Short=30s Total: 1560s=26mins&lt;br&gt;&lt;br&gt;　For 4 seasons：&lt;br&gt;　12 shorts + 1 recap" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="200" height="80" as="geometry" />
+          <mxGeometry x="240" y="80" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-1" target="XRTO34nemUw1Eli-27_c-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -18,30 +18,117 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-5" value="Season (repeat for 4 times)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="199" width="200" height="210" as="geometry">
+          <mxGeometry x="240" y="199" width="240" height="550" as="geometry">
             <mxRectangle x="280" y="200" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-6" value="1. Meet the Primrose Garden" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
-          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        <mxCell id="XRTO34nemUw1Eli-27_c-6" value="1. Background introduction or even dating" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="30" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-7" value="2. Wedding Planning (including selection of wedding form, banquet venue, cuisine, etc.)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
-          <mxGeometry y="60" width="200" height="60" as="geometry" />
+        <mxCell id="XRTO34nemUw1Eli-27_c-17" value="2. Meet the Primrose Garden" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="70" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-8" value="3. Wedding Scene" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
+        <mxCell id="XRTO34nemUw1Eli-27_c-7" value="3. Wedding Planning (introducting Primrose Garden)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="110" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-11" value="4.&amp;nbsp;Bloopers (or detail records, days after, wedding products, interview)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        <mxCell id="XRTO34nemUw1Eli-27_c-8" value="4. Wedding Planning (selection of wedding form)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="150" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRTO34nemUw1Eli-27_c-12" value="5. Recap" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
-          <mxGeometry y="180" width="200" height="30" as="geometry" />
+        <mxCell id="XRTO34nemUw1Eli-27_c-22" value="5. Wedding Planning (selection of&amp;nbsp;banquet venue)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="190" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-23" value="6. Wedding Planning (selection of&amp;nbsp;banquet cuisine)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBorderColor=none;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-24" value="7. Wedding Scene" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="270" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-25" value="8. Wedding Scene" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="310" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-26" value="9. Wedding Scene" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="350" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-27" value="10. Wedding Scene (interviews)" style="text;strokeColor=none;fillColor=#CCCCCC;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="390" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-28" value="11.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="430" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-11" value="12.&amp;nbsp;Bloopers, days after, wedding products" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="470" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-12" value="13. Recap" style="text;strokeColor=none;fillColor=#E6E6E6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="XRTO34nemUw1Eli-27_c-5">
+          <mxGeometry y="510" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XRTO34nemUw1Eli-27_c-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-2" target="XRTO34nemUw1Eli-27_c-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-110" y="109" as="sourcePoint" />
             <mxPoint x="-30" y="109" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-18" value="Increase the credibility of the story and the audience&#39;s sense of involvement." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="199" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-19" value="Introduce the media or method that can contact or learn about Primrose Garden." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="264" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-6" target="XRTO34nemUw1Eli-27_c-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-17" target="XRTO34nemUw1Eli-27_c-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-30" value="Introduction of business content, flow, and staff." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=-0.087;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-22" target="XRTO34nemUw1Eli-27_c-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="500" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-32" value="Participants&#39; impressions and interviews (increasing the credibility&lt;br&gt;)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="584" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-33" value="Present the beautiful scenery, sense of scale and happiness of the wedding banquet scene." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="504" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-25" target="XRTO34nemUw1Eli-27_c-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="470" as="sourcePoint" />
+            <mxPoint x="530" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-35" value="other benefits" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRTO34nemUw1Eli-27_c-27" target="XRTO34nemUw1Eli-27_c-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="480" as="sourcePoint" />
+            <mxPoint x="530" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XRTO34nemUw1Eli-27_c-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="670" as="sourcePoint" />
+            <mxPoint x="530" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-38" value="Filing as actual case record" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="710" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRTO34nemUw1Eli-27_c-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="XRTO34nemUw1Eli-27_c-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="730" as="sourcePoint" />
+            <mxPoint x="530" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
